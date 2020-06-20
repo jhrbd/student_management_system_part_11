@@ -10,7 +10,7 @@ student_management_system_in_django
 
 <h2> How to Deploy on Heroku </h2> 
 Tutorial Link : <a href="https://youtu.be/n4ly0_S3uGo">https://youtu.be/n4ly0_S3uGo</a>
-
+<br>
 <br>
 <br>
 <hr>
@@ -21,13 +21,13 @@ Tutorial Link : <a href="https://youtu.be/n4ly0_S3uGo">https://youtu.be/n4ly0_S3
 <p><b>Paypal : </b><br><a href="https://www.paypal.me/hackstarsj"><img src="https://github.com/hackstarsj/student_management_system_part_11/blob/master/screenshots/paypal_donate.jpg"/></a> </p>
 </td>
 <td style="width:25%">
-<p><b>INR 50 Instamojo  : </b><br><a href="https://imjo.in/TDfYvS"><img src="https://github.com/hackstarsj/student_management_system_part_11/blob/master/screenshots/donate-paytm.png"/></a> </p>
+<p><b>INR 50 Instamojo  : </b><br><a href="https://imjo.in/TDfYvS"><img src="https://github.com/hackstarsj/student_management_system_part_11/raw/master/insta.jpg"/></a> </p>
 </td>
 <td style="width:25%">
-<p><b>INR 100 Instamojo  : </b><br><a href="https://imjo.in/k8jdjD"><img src="https://github.com/hackstarsj/student_management_system_part_11/blob/master/screenshots/donate-paytm.png"/></a> </p>
+<p><b>INR 100 Instamojo  : </b><br><a href="https://imjo.in/k8jdjD"><img src="https://github.com/hackstarsj/student_management_system_part_11/raw/master/insta.jpg"/></a> </p>
 </td>
 <td style="width:25%">
-<p><b>INR 200 Instamojo : </b><br><a href="https://imjo.in/eSd5ft"><img src="https://github.com/hackstarsj/student_management_system_part_11/blob/master/screenshots/donate-paytm.png"/></a> </p>
+<p><b>INR 200 Instamojo : </b><br><a href="https://imjo.in/eSd5ft"><img src="https://github.com/hackstarsj/student_management_system_part_11/raw/master/insta.jpg"/></a> </p>
 </td>
 </tr>
 </table>
@@ -181,6 +181,7 @@ Run Project python runserver
 <br>
 <img src="https://raw.githubusercontent.com/hackstarsj/student_management_system_part_11/master/screenshots/admin_homepage2.PNG"  alt="Admin Homepage">
 <hr>
+
 <hr>
 <h1>Extending Project Parts</h1>
 <h2>Add Student Results From Staff Panel</h2>
