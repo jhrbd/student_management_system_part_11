@@ -21,13 +21,13 @@ Tutorial Link : <a href="https://youtu.be/n4ly0_S3uGo">https://youtu.be/n4ly0_S3
 <p><b>Paypal : </b><br><a href="https://www.paypal.me/hackstarsj"><img src="https://github.com/hackstarsj/student_management_system_part_11/blob/master/screenshots/paypal_donate.jpg"/></a> </p>
 </td>
 <td style="width:25%">
-<p><b>Paytm 50 : </b><br><a href="https://paytm.me/XV-H9ov"><img src="https://github.com/hackstarsj/student_management_system_part_11/blob/master/screenshots/donate-paytm.png"/></a> </p>
+<p><b>INR 50 Instamojo  : </b><br><a href="https://imjo.in/TDfYvS"><img src="https://github.com/hackstarsj/student_management_system_part_11/blob/master/screenshots/donate-paytm.png"/></a> </p>
 </td>
 <td style="width:25%">
-<p><b>Paytm 100 : </b><br><a href="https://paytm.me/yW-dMxJ"><img src="https://github.com/hackstarsj/student_management_system_part_11/blob/master/screenshots/donate-paytm.png"/></a> </p>
+<p><b>INR 100 Instamojo  : </b><br><a href="https://imjo.in/k8jdjD"><img src="https://github.com/hackstarsj/student_management_system_part_11/blob/master/screenshots/donate-paytm.png"/></a> </p>
 </td>
 <td style="width:25%">
-<p><b>Paytm 200 : </b><br><a href="https://paytm.me/fO-KZDH"><img src="https://github.com/hackstarsj/student_management_system_part_11/blob/master/screenshots/donate-paytm.png"/></a> </p>
+<p><b>INR 200 Instamojo : </b><br><a href="https://imjo.in/eSd5ft"><img src="https://github.com/hackstarsj/student_management_system_part_11/blob/master/screenshots/donate-paytm.png"/></a> </p>
 </td>
 </tr>
 </table>
